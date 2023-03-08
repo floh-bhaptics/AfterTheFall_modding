@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 using Newtonsoft.Json;
 using Octokit;
 
-namespace ZenithModding
+namespace AfterTheFallModding
 {
     internal class Program
     {
